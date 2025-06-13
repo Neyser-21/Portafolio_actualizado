@@ -100,3 +100,14 @@ input, textarea {
     border-radius: 5px;
     font-family: inherit;
 }
+
+
+#form-response {
+  margin-top: 1rem;
+  color: #8473ff;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
